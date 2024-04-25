@@ -1,1 +1,1 @@
-Pequeno exercicio para uma lista de nomes pegando direto do artquivo txt
+Pequeno exercício para criar uma lista de nomes retirados do artivo .txt 
